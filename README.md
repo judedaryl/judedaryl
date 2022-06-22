@@ -1,6 +1,6 @@
 ### Daryl here 👋
 
-I'm a senior software engineering @ UnitedHealthGroup! 
+I'm a senior software engineer @ Optum! 
 
 😄 Currently working on the following stacks!
 * C#
