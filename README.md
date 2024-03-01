@@ -1,6 +1,6 @@
 ### Daryl here 👋
 
-I'm a senior software engineer @ Optum! 
+I'm a principal software engineer @ Optum! 
 
 😄 Currently working on the following stacks!
 * C#
@@ -10,6 +10,7 @@ I'm a senior software engineer @ Optum!
 * Terraform
 * ARM
 * Bicep
+* AWS
 
 🌱 I've played on the following cloud platforms
 * Azure Cloud
